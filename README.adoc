@@ -1,3 +1,15 @@
 = Kotlin Docs
 
 Exploring and documenting Kotlin programming language features
+
+== Introduction
+
+[source,kotlin]
+.HelloWorld.kt
+----
+fun main(args:Array<String>)
+{
+    println("Hello World !!!")
+}
+----
+
